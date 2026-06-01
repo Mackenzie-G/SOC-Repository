@@ -2,25 +2,25 @@
 
 ## Case Information
 
-- Case ID: PHISH-001
-- Date Investigated: YYYY-MM-DD
-- Analyst: Your Name
-- Severity: Low / Medium / High
+- Case ID: Microsoft Action Required
+- Date Investigated: 6/1/2026
+- Analyst: Mackenzie Gurry
+- Severity: Medium
 
 
 
 ## Executive Summary
 
-- A suspicious email was reported by a user claiming to be from [Organization Name]. Initial analysis identified multiple indicators associated with phishing activity, including suspicious sender information, malicious URLs, and authentication failures. The email's objective appeared to be credential theft.
+- A suspicious email was reported by a user claiming to be from [Microsoft]. Initial analysis identified multiple indicators associated with phishing activity, including suspicious sender information, malicious URLs, and urgency to take action. The email's objective appeared to be credential theft.
 - Verdict: Confirmed Phishing
 
 
 
 ## Alert Details
 
-- Subject: [Email Subject]
-- Sender: [Sender Address]
-- Recipient: [Recipient Address]
+- Subject: [Action Required Now]
+- Sender: [??]
+- Recipient: [??]
 - Reported By: [User or Security Tool]
 
 
