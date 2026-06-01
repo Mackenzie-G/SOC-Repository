@@ -40,4 +40,4 @@ This repository contains my cybersecurity learning and projects focused on:
 - Log Analysis
 
 Here is the Link to my SOC portfolio:
-
+https://github.com/Mackenzie-G/SOC-Repository/tree/main
