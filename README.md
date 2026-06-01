@@ -25,7 +25,7 @@ This repository contains my cybersecurity learning and projects focused on:
 
 ### Malware Analysis
 - Static Analysis
-- Dynamic Analysi
+- Dynamic Analysis
 - Code Analysis
 
 ### Computer Forensics & Digital Investigations
@@ -39,4 +39,5 @@ This repository contains my cybersecurity learning and projects focused on:
 - Threat Intelligence
 - Log Analysis
 
-Here is the Link to my SOC portfolio
+Here is the Link to my SOC portfolio:
+
