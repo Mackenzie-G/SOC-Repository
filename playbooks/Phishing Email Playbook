@@ -1,0 +1,14 @@
+###Phishing Email Investigation Report
+
+##Case Information
+
+# Case ID: PHISH-001
+# Date Investigated: YYYY-MM-DD
+# Analyst: Your Name
+# Severity: Low / Medium / High
+
+## Executive Summary
+
+# A suspicious email was reported by a user claiming to be from [Organization Name]. Initial analysis identified multiple indicators associated with phishing activity, including suspicious sender information, malicious URLs, and authentication failures. The email's objective appeared to be credential theft.
+
+**Verdict: Confirmed Phishing
